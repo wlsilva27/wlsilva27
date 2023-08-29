@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Wanderson Silva
 
 - 🔭 Instrutor de Programação
-- 🌱 Estudando Front-end e back-end
+- 🌱 Front-end e back-end
 - 😄 Pronouns: ele/dele
 
 <div align="center">
